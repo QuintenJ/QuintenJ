@@ -2,13 +2,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; A goal-oriented IT professional with extensive knowledge of system administration. I like to explore new technologies and develop software solutions.
+
+
 🎓 &nbsp;I'm currently studying Computer Science and Software Development at Western Governors University
 
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 
 ### 🛠 &nbsp;Languages and Tools
 <p align="center">
