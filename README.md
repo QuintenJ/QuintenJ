@@ -2,7 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; A goal-oriented IT professional with extensive knowledge of system administration. I like to explore new technologies and develop software solutions.\
+💡 &nbsp; A goal-oriented IT professional with extensive knowledge of System Administration. An aspiring Software Developer I enjoy exploring and learning new technologies. 
+
+
+
 🎓 &nbsp; I'm currently studying Computer Science and Software Development at Western Governors University
 
 
