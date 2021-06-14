@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Quinten
+## 👋 &nbsp;I'm Quinten
 
 ### 👨🏻‍💻 &nbsp;About Me
 
