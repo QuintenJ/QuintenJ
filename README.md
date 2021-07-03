@@ -6,7 +6,7 @@
 
 
 
-🎓 &nbsp; I'm currently studying Computer Science and Software Development at Western Governors University
+🎓 &nbsp; I'm currently studying Computer Science and Software Development at Western Governors University.
 
 
 
