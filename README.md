@@ -2,13 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; A goal-oriented IT professional with extensive knowledge of System Administration. An aspiring Software Developer I enjoy exploring and learning new technologies. 
+- 💡 &nbsp; A goal-oriented IT professional with extensive knowledge of System Administration. An aspiring Software Developer I enjoy exploring and learning new technologies. 
 
 
+- 🎓 &nbsp; I'm currently studying Computer Science and Software Development at Western Governors University.
 
-🎓 &nbsp; I'm currently studying Computer Science and Software Development at Western Governors University.
 
-
+- 🌱 &nbsp; I’m currently learning JavaScript, C# and everything .NET
 
 
 
