@@ -12,6 +12,8 @@
 
 
 
+
+
 <!--- 
 ### 🛠 &nbsp;Languages and Tools
 <p align="center">
@@ -29,7 +31,7 @@
 <p align="center">
 <a href="https://github.com/QUINTENJ">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QUINTENJ&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QUINTENJ&layout=compact&hide=css+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QUINTENJ&layout=compact&hide=css,,+r&theme=vue-dark" />
 </a>
 </p>
 -->
