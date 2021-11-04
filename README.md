@@ -1,7 +1,3 @@
-## 👋 &nbsp;I'm Quinten
-
-### 👨🏻‍💻 &nbsp;About Me
-
 - 💡 &nbsp; A goal-oriented IT professional with extensive knowledge of System Administration. An aspiring Software Developer I enjoy exploring and learning new technologies. 
 
 
