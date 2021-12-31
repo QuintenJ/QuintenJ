@@ -4,7 +4,7 @@
 - 🎓 &nbsp; I'm currently studying Computer Science and Software Development at Western Governors University.
 
 
-- 🌱 &nbsp; I’m currently learning  C# and everything .NET
+- 🌱 &nbsp; I’m currently learning  C#, .NET 6, ASP.NET MVC/Razor Pages
 
 
 
