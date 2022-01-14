@@ -1,10 +1,9 @@
-- 💡 &nbsp; A goal-oriented IT professional with extensive knowledge of System Administration. An aspiring Software Developer I enjoy exploring and learning new technologies. 
+- 💡 &nbsp; A goal-oriented IT professional with extensive knowledge of System Administration. Jr Software Developer I enjoy exploring and learning new technologies. 
 
 
 - 🎓 &nbsp; I'm currently studying Computer Science and Software Development at Western Governors University.
 
 
-- 🌱 &nbsp; I’m currently learning  C#, .NET 6, ASP.NET MVC/Razor Pages.
 
 
 
