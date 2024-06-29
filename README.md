@@ -1,11 +1,6 @@
 - 💡 &nbsp; A goal-oriented IT professional, System Administrator. Junior Software Developer. I enjoy exploring and learning new technologies. 
 
 
-- 🎓 &nbsp; I'm currently studying Computer Science and Software Development at Western Governors University.
-
-
-
-
 
 
 
